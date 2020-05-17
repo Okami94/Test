@@ -1,2 +1,6 @@
-﻿server:
+server:
   port: 3355
+
+
+cinfo:
+  name: 1
